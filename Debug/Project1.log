@@ -1,0 +1,20 @@
+﻿  Source.c
+C:\Users\Viz12\Desktop\C PROG ASSIGNMENT\NEw PROJ\Project1\Source.c(26,11): warning C4098: 'getotdist': 'void' function returning a value
+C:\Users\Viz12\Desktop\C PROG ASSIGNMENT\NEw PROJ\Project1\Source.c(55,10): warning C4098: 'getotdist': 'void' function returning a value
+C:\Users\Viz12\Desktop\C PROG ASSIGNMENT\NEw PROJ\Project1\Source.c(78,11): warning C4098: 'getvaccode': 'void' function returning a value
+C:\Users\Viz12\Desktop\C PROG ASSIGNMENT\NEw PROJ\Project1\Source.c(106,11): warning C4098: 'getvaccode': 'void' function returning a value
+C:\Users\Viz12\Desktop\C PROG ASSIGNMENT\NEw PROJ\Project1\Source.c(168,18): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+C:\Users\Viz12\Desktop\C PROG ASSIGNMENT\NEw PROJ\Project1\Source.c(169,16): warning C4047: '==': 'char *' differs in levels of indirection from 'int'
+C:\Users\Viz12\Desktop\C PROG ASSIGNMENT\NEw PROJ\Project1\Source.c(221,3): warning C4033: 'codechecker2' must return a value
+C:\Users\Viz12\Desktop\C PROG ASSIGNMENT\NEw PROJ\Project1\Source.c(215,7): warning C4101: 'opt1': unreferenced local variable
+C:\Users\Viz12\Desktop\C PROG ASSIGNMENT\NEw PROJ\Project1\Source.c(255,3): warning C4033: 'codechecker1' must return a value
+C:\Users\Viz12\Desktop\C PROG ASSIGNMENT\NEw PROJ\Project1\Source.c(249,7): warning C4101: 'opt1': unreferenced local variable
+C:\Users\Viz12\Desktop\C PROG ASSIGNMENT\NEw PROJ\Project1\Source.c(284,11): warning C4098: 'tempcopy': 'void' function returning a value
+C:\Users\Viz12\Desktop\C PROG ASSIGNMENT\NEw PROJ\Project1\Source.c(288,11): warning C4098: 'tempcopy': 'void' function returning a value
+C:\Users\Viz12\Desktop\C PROG ASSIGNMENT\NEw PROJ\Project1\Source.c(307,6): warning C4101: 'vmin': unreferenced local variable
+C:\Users\Viz12\Desktop\C PROG ASSIGNMENT\NEw PROJ\Project1\Source.c(460,10): warning C4098: 'delvac': 'void' function returning a value
+C:\Users\Viz12\Desktop\C PROG ASSIGNMENT\NEw PROJ\Project1\Source.c(434,7): warning C4101: 'opt3': unreferenced local variable
+C:\Users\Viz12\Desktop\C PROG ASSIGNMENT\NEw PROJ\Project1\Source.c(597,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [2]'
+C:\Users\Viz12\Desktop\C PROG ASSIGNMENT\NEw PROJ\Project1\Source.c(240): warning C4715: 'codechecker2': not all control paths return a value
+C:\Users\Viz12\Desktop\C PROG ASSIGNMENT\NEw PROJ\Project1\Source.c(272): warning C4715: 'codechecker1': not all control paths return a value
+  Project1.vcxproj -> C:\Users\Viz12\Desktop\C PROG ASSIGNMENT\NEw PROJ\Project1\Debug\Project1.exe
