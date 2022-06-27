@@ -1,0 +1,2 @@
+void distock();			//TO DISTRIBUTE THE VACCINE + SAVE TO dist.txt AND UPDATE THE CURRENT QUANTITY + SAVE TO vaccine.txt
+void addstock();		//TO ADD VACCINE STOCK AND UPDATE THE CURRENT QUANTITY  + SAVE IT TO vaccine.txt
